@@ -1,0 +1,52 @@
+.graphichead {font-family:'BentonSans', Helvetica, Arial, sans-serif; font-size:1.2em;font-weight:bold; display:block;}
+.subtitle {font-family:'BentonSans', Helvetica, Arial, sans-serif; font-size:0.9em; line-height:1.4em; margin-top:20px; margin-bottom:15px;}
+
+.legend{
+	border: 3px solid #990000;
+	/* background-color: #ffcccc; */
+	border-radius: 15px;
+	display: flex;
+	flex-flow:wrap;
+	padding: 8px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	align-items: center;
+  	justify-content: center;
+    font-family:'BentonSans', Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
+
+}
+/* .icon_list{
+
+
+	width: 33%;
+	padding: 5px;
+
+
+
+
+} */
+.icon{
+	display: flex;
+	padding: 8px;
+
+}
+
+
+.image{
+	padding-left: 3px;
+	margin-top: -3px;
+
+	/* margin: auto 0 auto 0; */
+
+}
+
+p.icon{
+    font-weight: 700;
+    padding: 0 5px 5px 0;
+}
+
+#hurricane-map{
+    width: 100%;
+    height: 500px;
+}
